@@ -158,9 +158,9 @@ h4{
 }
 
 /* <!-- ------------ testimonial ------------ --> */
- .testimonial{
+ /* .testimonial{
     padding: 100px;
- }
+ } */
 
  .testimonial .col-3 {
     text-align: center;
@@ -233,6 +233,7 @@ h4{
     margin-bottom: 20px;
 }
 .footer-col-1,.footer-col-2,.footer-col-3,.footer-col-4{
+    margin: auto;
     min-width: 250px;
     margin-bottom: 20px;
 }
@@ -296,7 +297,7 @@ color: #fff;
 
 .row{
     justify-content: space-between;
-    margin:100px auto ;
+    margin: 50px auto ;
 }
 select{
     border: 1px solid #ff523b;
